@@ -1,0 +1,33 @@
+{
+  "name": "illamon-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callit": "echo 'You are calling something..'",
+    "stt": "node index.js"
+  },
+  "keywords": [
+    "illamon",
+    "pack",
+    "open",
+    "it"
+  ],
+  "author": "illamon",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.4",
+    "nodemailer": "^6.7.2",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/illamon/try-to-add-repo.git" 
+  }
+
+
+}
